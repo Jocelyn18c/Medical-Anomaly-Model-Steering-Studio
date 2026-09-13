@@ -15,10 +15,10 @@ Machine learning models used in healthcare settings often flag "anomalies" based
 5. **Lets the user interact**: select any points on the scatter plot (click, box, or lasso), relabel them, and trigger a live retrain — the decision tree visually updates to reflect the correction.
 
 ## Screenshots
-![Patient scatter plot]
+[Patient scatter plot]
 <img width="855" height="429" alt="ScatterPlot " src="https://github.com/user-attachments/assets/e0e19dad-a9fc-45ec-83e0-3a1512487d8c" />
 
-![Steering panel and decision tree]
+[Steering panel and decision tree]
 <img width="1324" height="678" alt="DecisionTree" src="https://github.com/user-attachments/assets/7ef881c8-376d-4494-8a41-0a31f856553a" />
 
 
